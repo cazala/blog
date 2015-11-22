@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "cazala",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"cazala","repositoryName":"blog","branch":"gh-pages","cname":"blog.juancazala.com"},"site":{"url":"http://blog.juancazala.com"},"socialnetwork":{},"theme":{"name":"Casper","url":"//cazala.github.io/blog/themes/Casper"}}
